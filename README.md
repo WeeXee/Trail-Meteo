@@ -4,6 +4,7 @@ Dashboard météo orienté **moto trail & enduro**. Pour une ville donnée, il c
 
 Aucune clé API, aucun backend, aucune dépendance à installer — du HTML/CSS/JS pur, prêt pour GitHub Pages.
 
+https://weexee.github.io/Trail-meteo/
 ---
 
 ## ✨ Fonctionnalités
